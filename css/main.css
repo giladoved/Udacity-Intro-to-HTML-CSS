@@ -1,0 +1,43 @@
+body {
+	font-family: 'Lato', sans-serif;
+	background: #eee;
+}
+h1 {
+	font-size: 64px;
+	font-weight: 100;
+}
+h2 {
+	font-size: 38px;
+	font-weight: 300;
+	color: #bcbbbb;
+}
+h3 {
+	font-weight: 300;
+}
+hr {
+	border-bottom: 4px solid #bcbbbb;
+}
+.container {
+	background: #fff;
+}
+.header {
+	margin-top: 20px;
+	color: #000;
+}
+.header img {
+	height: 150px;
+}
+.work {
+	margin-top: 20px;
+}
+.work h2 {
+	color: #333;
+}
+.work a {
+	text-decoration: none;
+	font-weight: 300;
+	color: #333;
+}
+.work img {
+	height: 200px;
+}
